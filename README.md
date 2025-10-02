@@ -1,3 +1,3 @@
 # BSB-SLAM (WIP)
 
-project that integrates orbstlam with steam VR
+project that integrates [orbslam](https://github.com/UZ-SLAMLab/ORB_SLAM3) with steam VR
