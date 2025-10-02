@@ -39,3 +39,6 @@
 
 # debug information files
 *.dwo
+
+# macOS crap files
+*.DS_Store
